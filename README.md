@@ -1,3 +1,17 @@
-# temp
-# temp
-# temp
+ adaboost.py                  main.py
+ aggrole.py                   mlp.py
+ assignment1.py               naivebayes.py
+ assignment2.py               normalization.py
+ assignment3.py               pca.py
+ centraltendency.py           pearsoncorrelationcoefficient.py
+ chisquare.py                 pearsoncorrelationcoefficientt.py
+ cosinesimilarity.py          perceptron.py
+ covariance.py                performanceofsvm.py
+ decisiontree.py              pnn.py
+ dwt.py                       quartile.py
+ filter_based_approaches.py   randomforest.py
+ ga.py                        README.md
+ Iris.csv                     regression.py
+ kfold.py                     similarity_search.py
+ kmean.py                     svm.py
+ knn.py                       train-images.idx3-ubyte
